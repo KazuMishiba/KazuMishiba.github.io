@@ -1,4 +1,4 @@
-# Selected Research Papers and Corresponding Repositories
+## Selected Research Papers and Corresponding Repositories
 You can find a selection of my research papers for which the source code is available.
 
 1. **Fast Guided Median Filter**
