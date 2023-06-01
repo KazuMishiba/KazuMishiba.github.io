@@ -1,9 +1,5 @@
-# Kazu Mishiba, Ph.D.
-
-Associate Professor, Graduate School of Engineering, Tottori University
-
-## Selected Research Papers and Corresponding Repositories
-Below, you can find a selection of my research papers for which the source code is available.
+# Selected Research Papers and Corresponding Repositories
+You can find a selection of my research papers for which the source code is available.
 
 1. **Fast Guided Median Filter**
     - K. Mishiba, "Fast Guided Median Filter," in IEEE Transactions on Image Processing, vol. 32, pp. 737-749, 2023, doi: 10.1109/TIP.2022.3232916.
