@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kazu Mishiba, Ph.D.
+description: Associate Professor, Graduate School of Engineering, Tottori University
+---
+
 ## Selected Research Papers and Corresponding Repositories
 You can find a selection of my research papers for which the source code is available.
 
